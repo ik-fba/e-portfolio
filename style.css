@@ -23,8 +23,8 @@ html{
   overflow-x: hidden;
 }
 
-body{
-  background: var(--bg-color);
+body {
+  background-image: url("./images/european\ nights.jpg");
   color: var(--text-color);
 }
 
@@ -150,7 +150,7 @@ span{
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  background: var(--second-bg-color);
+  background: url(./images/football.jpg);
 }
 
 .about-img img{
@@ -218,7 +218,7 @@ span{
 }
 
 .portfolio {
-  background: var(--second-bg-color);
+  background: url(./images/football.jpg);
 }
 
 .portfolio h2 {
